@@ -1,0 +1,11 @@
+.globalBackground{
+    background-color: #2bbdde!important;
+}
+.marginTop10{
+    margin-top: 10px;
+}
+
+.centeredCss{
+    display: flex;
+    justify-content: center;
+}
